@@ -7,8 +7,6 @@
 Machine Intelligence Laboratory, University of Seoul<br>
 Data Science Interdisciplinary Major
 
-<sup>†</sup>Corresponding author
-
 ### WACV 2027
 
 [![Paper](https://img.shields.io/badge/Paper-coming%20soon-lightgrey)](#)
